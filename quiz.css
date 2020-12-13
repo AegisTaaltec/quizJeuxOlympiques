@@ -1,5 +1,30 @@
-        body
+@font-face {
+    font-family: 'Roboto';
+    src: url('fonts/Roboto-Regular.ttf');
+    src: url('fonts/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url('fonts/Roboto-Medium.ttf');
+    src: url('fonts/Roboto-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}  
+@font-face {
+    font-family: 'RobotoBold';
+    src: url('fonts/Roboto-Bold.ttf');
+    src: url('fonts/Roboto-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+       body
         {
+            font-family: 'Roboto';
             background-color: rgba(241, 253, 255, 1);
         }
         button
@@ -20,6 +45,7 @@ border-radius: 22.7143px;
         }
 
         .buttons001 {
+            font-family: 'RobotoBold';
             color: #F5F3EF;
             font-size: auto;
             text-align: center;

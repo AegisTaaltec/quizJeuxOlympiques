@@ -243,7 +243,7 @@
                 number001.innerHTML = a++;
                 message004.innerHTML = "";
             } else {
-                message001.innerHTML = "Fin du Quizz !";
+                message001.innerHTML = "Fin du Quizz ! Tu es incollable sur les Jeux Olympiques !";
                 message002.innerHTML = "";
                 message003.innerHTML = "";
                 message004.innerHTML = "<button class=buttons002 onclick=repeat001()>REJOUER</button>";
