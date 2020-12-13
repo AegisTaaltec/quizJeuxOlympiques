@@ -1,0 +1,184 @@
+@import url('https://fonts.googleapis.com/css2? family = Roboto: wght @ 100; 900 & display = swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    /* width:1152px ; 
+Height:543px;
+Top:681px;
+Left:-1579px; */
+position: relative;
+width: 1152px;
+height: 543px;
+margin-left: 9%;
+background: #F1FDFF;
+margin-top: 4%;
+}
+
+img {
+    position: absolute;
+width: 192px;
+height: 192px;
+left: 11px;
+top: 0;
+}
+
+h1 {
+    position: absolute;
+width: 410px;
+height: 84px;
+left: 392px;
+top: 74px;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 55.06px;
+line-height: 65px;
+text-align: center;
+
+color: #34455E;
+}
+
+.isaac {
+    position: absolute;
+width: 131.04px;
+height: 131.04px;
+left: 181.49px;
+top: 208px;
+border-radius: 55%;
+
+background: #B3CD93;
+}
+
+.isaac > img {
+    position: absolute;
+width: 95px;
+height: 100px;
+left: 12px;
+top: 10px;
+border-radius: 50% ;
+border:solid 6px white;
+}
+
+.in_isaac {
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 90px;
+top: 100px;
+}
+
+.nom_isaac {
+    position: absolute;
+width: 205.26px;
+height: 18.33px;
+left: 143px;
+top: 350.03px;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17.0644px;
+line-height: 20px;
+text-align: center;
+
+color: #34455E;
+}
+
+.mathieu {
+    position: absolute;
+width: 131.04px;
+height: 131.04px;
+left: 531.49px;
+top: 208px;
+border-radius: 55%;
+
+background: #B3CD93;
+}
+
+.mathieu > img {
+    position: absolute;
+    width: 95px;
+    height: 100px;
+    left: 13px;
+    top: 11px;
+    border-radius: 50% ;
+    border:solid 6px white;
+
+}
+
+.in_mathieu{
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 90px;
+top: 100px;
+
+}
+.nom_mathieu {
+    position: absolute;
+width: 205.26px;
+height: 18.33px;
+left: 493px;
+top: 350.03px;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17.0644px;
+line-height: 20px;
+text-align: center;
+
+color: #34455E;
+}
+
+.jonathan {
+    position: absolute;
+width: 131.04px;
+height: 131.04px;
+left: 881.49px;
+top: 208px;
+border-radius: 55%;
+
+background: #B3CD93;
+}
+
+.jonathan > img {
+    position: absolute;
+    width: 95px;
+    height: 100px;
+    left: 13px;
+    top: 11px;
+    border-radius: 50% ;
+    border:solid 6px white;
+}
+
+.in_jonathan {
+    position: absolute;
+width: 33px;
+height: 33px;
+left: 90px;
+top: 100px;
+}
+
+.nom_jonathan {
+    position: absolute;
+width: 205.26px;
+height: 18.33px;
+left: 843px;
+top: 350.03px;
+
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 17.0644px;
+line-height: 20px;
+text-align: center;
+
+color: #34455E;
+}
+
