@@ -9,34 +9,42 @@ img
     margin-left: auto;
     margin-right: auto;
 }
-
+ a
+ {
+     text-decoration: none;
+     color: #F5F3EF;
+    }
 div p
 {
 color: #F5F3EF;
 font-size: 30px;
 text-align: center;
 background: #2FC6F5;
+padding-top: 20px;
+padding-bottom: 20px;
+width: 198px;
 
-    height: 85.45px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+display: block;
+margin: auto;
+box-shadow: 4px 4px 4px #09AEE2;
+border-radius: 15.1429px;
+}
 
-    box-shadow: 4px 4px 4px #09AEE2;
-    border-radius: 15.1429px;
+div p:hover
+{
+    box-shadow: 4px 4px 4px #09AEE2 inset;
 
-    width: 198px;
 }
 
 footer p
 {
     position: absolute;
+    left: 1199px;
+    top: 630px;
     width: 146px;
-    height: 61px;
-    left: 1268px;
-    top: 631px;
-    margin: auto;
     background: #9EEBE6;
+    padding-top: 20px;
+padding-bottom: 20px;
     box-shadow: 4px 4px 4px #A7E4E1;
     border-radius: 15.14px;
     font-size: 23px;
